@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  right: 0;
+  box-sizing: border-box;
+  left: 0;
+  --yellow: rgb(146, 82, 8);
+  --white: rgb(255, 255, 255);
+  --gray: rgb(112, 112, 112);
+}
+body {
+  background-color: var(--gray);
+}
+.login {
+  background-color: var(--gray);
+}
